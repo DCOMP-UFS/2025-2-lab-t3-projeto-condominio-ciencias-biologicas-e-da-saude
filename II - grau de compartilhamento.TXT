@@ -1,0 +1,36 @@
+Resumo Quantitativo e Justificativa de Mérito (Edital)
+1. Panorama Geral da Proposta
+A proposta visa a implementação de uma infraestrutura de rede corporativa e científica de alta disponibilidade para o Centro de Ciências Biológicas e da Saúde (CCBS). O aporte total de R$ 300.000,00 permitirá a aquisição de equipamentos de camada empresarial (Enterprise), garantindo suporte a grandes volumes de dados (Big Data) e segurança rigorosa para dados sensíveis de saúde.
+
+2. Grupos de Pesquisa e Laboratórios (06 Unidades)
+Smart Lab & Bioinformática
+
+Centro de Investigação em Saúde, Atividade Física e Esporte (SAFE)
+
+Enfoque Intradisciplinar na Fonoaudiologia
+
+Laboratório de Biofísica do Coração
+
+Grupo de Pesquisa Multiprofissional em Diabetes Mellitus
+
+Biotecnologia e Inovação Terapêutica
+
+3. Quantitativo de Usuários Contemplados
+O investimento impactará diretamente o ecossistema de pesquisa do CCBS:
+
+Corpo Docente e Pesquisadores: 18 a 24 pesquisadores fixos.
+
+Pós-Graduação (Mestrado/Doutorado): ~45 discentes com necessidade de processamento de dados e acesso remoto a servidores.
+
+Graduação e Iniciação Científica: ~80 alunos envolvidos em projetos de extensão e pesquisa.
+
+Pacientes e Voluntários (Beneficiários Indiretos): Estima-se o atendimento e processamento de dados de mais de 500 pessoas/ano através dos laboratórios de Fonoaudiologia, Diabetes e Esporte.
+
+4. Argumentos de Mérito para Classificação do Edital
+O mérito da proposta reside na sustentabilidade e robustez tecnológica, fundamentada em três pilares:
+
+Capacidade de Processamento de Bioinformática: Com o orçamento de 50k por lab, é possível implementar Switches Layer 3 e fibra óptica interna, permitindo o tráfego de sequenciamentos genômicos pesados sem gargalos na rede do Centro.
+
+Segurança e LGPD: O recurso permite a instalação de um Firewall dedicado e sistemas de armazenamento em rede (NAS), fundamentais para proteger o sigilo médico de pacientes atendidos nas pesquisas de Diabetes e Fonoaudiologia, conforme a Lei Geral de Proteção de Dados.
+
+Integração e Escalabilidade: A proposta não resolve um problema pontual de um laboratório, mas cria uma espinha dorsal (Backbone) para o CCBS, permitindo que as inovações em Biotecnologia sejam integradas digitalmente aos estudos de Biofísica e Saúde Esportiva.
