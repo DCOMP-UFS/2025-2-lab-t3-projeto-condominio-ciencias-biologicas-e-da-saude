@@ -6,15 +6,17 @@ nome misael de lima araujo link https://github.com/DCOMP-UFS/2025-2-lab-t3-proje
 nome daniel link https://github.com/daniel-dev2/lab_redes / https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-daniel-dev2
 nome ellen link https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-ellenvitoriaml
 nome carlo link https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-CaduL-03
-nome leo link 
+nome leo link  https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-lhelheo
 
 4 
 a)
 Misael de lima araujo - Smart Lab & Bioinformática
-Ellen Vitoria menezes - Safe
+Ellen Vitoria menezes - Centro de Investigação em Saúde, Atividade Física e Esporte (SAFE)
 Daniel Rodrigo Ferreira dos Santos - Enfoque Intradisciplinar na Fonoaudiologia: Atençao a Saúde nas Várias Fases da Vida
 Carlos Eduardo Laurentino dos Santos - Laboratório de Biofísica do Coração
 Larissa Batista dos Santos - Grupo de Pesquisa Multiprofissional em Diabetes Mellitus
+Leonardo Oliveira Villalva - Biotecnologia e Inovação Terapêutica
+
 
 
 
